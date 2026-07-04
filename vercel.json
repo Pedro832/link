@@ -2,11 +2,11 @@
   "rewrites": [
     {
       "source": "/link",
-      "destination": "https://www.pedrokauadev.com.br/"
+      "destination": "https://link-five-sepia.vercel.app//"
     },
     {
       "source": "/link/:path*",
-      "destination": "https://www.pedrokauadev.com.br/:path*"
+      "destination": "https://link-five-sepia.vercel.app//:path*"
     }
   ]
 }

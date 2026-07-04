@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/link",
+      "destination": "https://www.pedrokauadev.com.br/"
+    },
+    {
+      "source": "/link/:path*",
+      "destination": "https://www.pedrokauadev.com.br/:path*"
+    }
+  ]
+}

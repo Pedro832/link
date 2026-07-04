@@ -2,11 +2,11 @@
   "rewrites": [
     {
       "source": "/link",
-      "destination": "https://link-five-sepia.vercel.app//"
+      "destination": "https://link-five-sepia.vercel.app/"
     },
     {
       "source": "/link/:path*",
-      "destination": "https://link-five-sepia.vercel.app//:path*"
+      "destination": "https://link-five-sepia.vercel.app/:path*"
     }
   ]
 }
